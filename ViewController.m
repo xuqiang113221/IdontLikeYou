@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    // it must be true
+    // it must be true1234556666
 }
 
 - (void)didReceiveMemoryWarning
